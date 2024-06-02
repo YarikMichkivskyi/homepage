@@ -79,6 +79,11 @@ body {
     text-decoration-line: underline;
 }
 
+.contact_info_container{
+    justify-content: space-around;
+    margin: 30px 0;
+}
+
 .contact-info__sub-header {
     color: var(--secondary-text-color);
     margin-bottom: 30px;
@@ -160,11 +165,16 @@ body {
     color: var(--secondary-text-color);
     text-align: center;
     margin-bottom: 15px;
+    margin-top: 30px;
 }
 
 .skills__text {
     color: var(--secondary-text-color);
     text-align: justify;
+}
+
+.main-info{
+    margin-top: 30px;
 }
 
 .experiences {
@@ -221,6 +231,10 @@ body {
 }
 
 .additional-info__education {
+    margin-bottom: 20px;
+}
+
+.additional-info__education-university{
     margin-bottom: 20px;
 }
 
