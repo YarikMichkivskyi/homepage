@@ -79,6 +79,11 @@ body {
     text-decoration-line: underline;
 }
 
+.contact_info_container{
+    justify-content: space-around;
+    margin: 30px 0;
+}
+
 .contact-info__sub-header {
     color: var(--secondary-text-color);
     margin-bottom: 30px;
